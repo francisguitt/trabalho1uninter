@@ -1,0 +1,52 @@
+body {
+    background-color: #e3f2fd;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #1565c0;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 18px;
+    text-align: justify;
+  }
+  
+  ul {
+    line-height: 2;
+  }
+  
+  img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+    width: 200px;
+    height: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+  }
+  
+  table, td {
+    border: 1px solid #bbb;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  a {
+    color: #0d47a1;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #f44336;
+  }
+  
+
+  butto
